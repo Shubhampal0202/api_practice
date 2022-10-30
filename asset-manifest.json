@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/api_practice/static/css/main.d4a61acf.css",
+    "main.js": "/api_practice/static/js/main.7e920d22.js",
+    "index.html": "/api_practice/index.html",
+    "main.d4a61acf.css.map": "/api_practice/static/css/main.d4a61acf.css.map",
+    "main.7e920d22.js.map": "/api_practice/static/js/main.7e920d22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4a61acf.css",
+    "static/js/main.7e920d22.js"
+  ]
+}
